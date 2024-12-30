@@ -31,7 +31,7 @@ Un jeu de mémoire (Memory) unique mettant en vedette la collection Mini Doges, 
 
 1. Clonez le repository :
 ```bash
-git clone [votre-repo-url]
+git clone https://github.com/gofastpanam/memory_game
 cd memory-game
 ```
 
