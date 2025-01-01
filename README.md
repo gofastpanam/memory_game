@@ -1,15 +1,12 @@
-# 🎮 Memory Game - Mini Doges Collection
+# 🎮 Memory Game - Match the Mini Doges, Unlock the Fun!
 
-<div align="center">
-  <img src="card_back.png" alt="Card Back" width="100">
-  <img src="14579.png" alt="Mini Doge 1" width="100">
-  <img src="14601.png" alt="Mini Doge 2" width="100">
-  <img src="14652.png" alt="Mini Doge 3" width="100">
+<div>
+  <img src="memory-game.jpg" alt="memory-game" width="600">
 </div>
 
 ## 📖 Description
 
-Un jeu de mémoire (Memory) unique mettant en vedette la collection Mini Doges, la première collection historique de 10 000 NFTs sur la blockchain Dogecoin. Testez votre mémoire en associant les paires de Mini Doges tout en découvrant cette collection emblématique !
+Un jeu de mémoire (Memory) mettant en vedette la collection Mini Doges, la première collection de 10 000 NFTs inscrits sur la blockchain Dogecoin. Testez votre mémoire en associant les paires de Mini Doges!
 
 ### 🎯 Aperçu des Mini Doges
 
